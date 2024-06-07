@@ -5,7 +5,7 @@
 - 📫 How to reach me: [Email](mailto:nathanielamofah@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nathanielcobbinah/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and have a passion for photography!
-- 💻 I already know: HTML, CSS, JavaScript, PHP, Laravel, TailwindCSS, and more. I'm continuously learning and adding new skills.
+- 💻 I already know: HTML, CSS, JavaScript, jQuery, PHP, Laravel, TailwindCSS, and more. I'm continuously learning and adding new skills.
 - 🖥️ I'm a full-stack developer.
 
 <!---
